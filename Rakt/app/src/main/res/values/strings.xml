@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Rakt</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="developed_by"><![CDATA[Developed By :- Daljeet & Deepak]]></string>
+    <string name="sign_in"><u><b>Register</b></u></string>
+    <string name="log_in"><u><b>Login</b></u></string>
+    <string name="AB">A B</string>
+    <string name="A_positive">A +</string>
+    <string name="B_positive">B +</string>
+    <string name="O_positive">O +</string>
+    <string name="O_negative">O -</string>
+    <string name="how_to_donate_blood"><u>How to Donate Blood?</u></string>
+    <string name="how_to_request_blood"><u>How to Request Blood?</u></string>
+    <string name="donate_blood_answer">To donate blood , kindly click on the option <b>Donate Blood</b> available on the home screen. Then fill up all the details and click on <b>Submit Details Button</b>. When the dialog box appears click on <b>Yes</b> button to submit your details.</string>
+    <string name="request_blood_answer">To request blood , kindly click on the option <b>Request Blood</b> available on the home screen. Then list of the donors will appears who have given their details to donate blood , now click on <b>Ask For Help Button</b> available on the donors list. Now details of the donor will appear and you can easily Call or Message Donor by Clicking on the <b>Call</b> or <b>Message</b> buttons available.</string>
+</resources>
